@@ -1,0 +1,734 @@
+\begin{theindex}
+
+  \item 1FGL J1227.9-4852, \hyperpage{157}
+  \item 1RXS J154439.4-112820, 
+		\hyperindexformat{\see {3FGL J1544.6-1125}}{157}
+  \item 3FGL J0427.9-6704, \hyperpage{157}
+  \item 3FGL J1544.6-1125, \hyperpage{24}, \hyperpage{157}
+  \item 3FGL J1746.3--2851c, \hyperpage{160}
+  \item 4U 1626-67, \hyperpage{164}
+
+  \indexspace
+
+  \item Absorption, \hyperindexformat{\see {$N_H$}}{95}
+  \item Accreting millisecond pulsar, 
+		\hyperindexformat{\see {AMXP}}{156}
+  \item Accretion, \hyperpage{2, 3}, \hyperpage{6--8}, \hyperpage{11}, 
+		\hyperpage{13}, \hyperpage{16--25}, \hyperpage{27}, 
+		\hyperpage{34}, \hyperpage{105}, \hyperpage{108}, 
+		\hyperpage{115}, \hyperpage{149, 150}, \hyperpage{152}, 
+		\hyperpage{156--160}, \hyperpage{162}, \hyperpage{167}, 
+		\hyperpage{171}, \hyperpage{179}, \hyperpage{181}
+  \item Accretion disk, \hyperpage{3, 4}, \hyperpage{6}, \hyperpage{8}, 
+		\hyperpage{11}, \hyperpage{13--25}, \hyperpage{27--32}, 
+		\hyperpage{34}, \hyperpage{57}, \hyperpage{106, 107}, 
+		\hyperpage{146}, \hyperpage{150}, \hyperpage{156, 157}, 
+		\hyperpage{168--173}, \hyperpage{176, 177}, 
+		\hyperpage{179}, \hyperpage{181}
+  \item Accretion rate, \hyperpage{7}, \hyperpage{14--16}, 
+		\hyperpage{18, 19}, \hyperpage{23--25}, 
+		\hyperpage{28, 29}, \hyperpage{32}, \hyperpage{103}, 
+		\hyperpage{105, 106}, \hyperpage{145}, 
+		\hyperpage{148--150}, \hyperpage{152--154}, 
+		\hyperpage{156, 157}, \hyperpage{168, 169}, 
+		\hyperpage{171}, \hyperpage{176}, \hyperpage{180}
+  \item Active galactic nucleus, \hyperpage{2}
+  \item the \textit{Advanced Telescope for High Energy Astrophysics}, 
+		\hyperindexformat{\see {\textit{ATHENA}}}{35}
+  \item AGN, \hyperindexformat{\see {Active galactic nucleus}}{2}
+  \item Alfv\'{e}n radius, 
+		\hyperindexformat{\see {Magnetospheric radius}}{21}
+  \item Aliasing, \hyperpage{51}, \hyperpage{53}
+  \item $\alpha$, \hyperindexformat{\see {Viscosity}}{28}
+  \item AMXP, \hyperpage{156}
+  \item Angular momentum, \hyperpage{3}, \hyperpage{13}, 
+		\hyperpage{16, 17}, \hyperpage{156}, \hyperpage{164}
+  \item ATCA, \hyperpage{63}
+  \item \textit{ATHENA}, \hyperpage{177}
+  \item Atoll source, \hyperpage{8}, \hyperpage{10}
+  \item the Australian Telescope Compact Array, 
+		\hyperindexformat{\see {ATCA}}{35}
+
+  \indexspace
+
+  \item Background subtraction, \hyperpage{38}, \hyperpage{60}, 
+		\hyperpage{63}, \hyperpage{65}, \hyperpage{109--111}, 
+		\hyperpage{129}, \hyperpage{141}, \hyperpage{161}, 
+		\hyperpage{210}
+  \item Binned data, \hyperpage{37}
+  \item Black hole, \hyperpage{1--3}, \hyperpage{7}, \hyperpage{9--11}, 
+		\hyperpage{13, 14}, \hyperpage{24, 25}, 
+		\hyperpage{27, 28}, \hyperpage{102, 103}, 
+		\hyperpage{105}, \hyperpage{108}, \hyperpage{144}, 
+		\hyperpage{170, 171}, \hyperpage{180}
+    \subitem Supermassive black hole, \hyperpage{2}
+  \item Bolometric correction factor, \hyperpage{103}, \hyperpage{162}
+  \item Burst, \hyperindexformat{\see {X-ray burst}}{109}, 
+		\hyperpage{177}
+  \item Bursting Pulsar, \hyperpage{33, 34}, \hyperpage{38}, 
+		\hyperpage{107--116}, \hyperpage{118}, 
+		\hyperpage{120, 121}, \hyperpage{123}, 
+		\hyperpage{142--150}, \hyperpage{152--155}, 
+		\hyperpage{158--165}, \hyperpage{167--170}, 
+		\hyperpage{172--177}, \hyperpage{179--181}, 
+		\hyperpage{189}, \hyperpage{193}
+
+  \indexspace
+
+  \item Cataclysmic variable, \hyperpage{3}, \hyperpage{162}
+  \item CCD, \hyperindexformat{\see {Colour-colour diagram}}{8}
+  \item \textit{CGRO}, \hyperpage{40}, \hyperpage{113}, \hyperpage{147}
+    \subitem BATSE, \hyperpage{113}, \hyperpage{147}
+  \item \textit  {Chandra}, \hyperpage{35}, \hyperpage{40, 41}, 
+		\hyperpage{58, 59}, \hyperpage{62}, \hyperpage{90, 91}, 
+		\hyperpage{93}, \hyperpage{108}, \hyperpage{112}, 
+		\hyperpage{114}, \hyperpage{122, 123}, \hyperpage{147}, 
+		\hyperpage{155}, \hyperpage{174}, \hyperpage{177}
+    \subitem ACIS, \hyperpage{41}, \hyperpage{62}, \hyperpage{112}
+    \subitem HRC, \hyperpage{41}
+  \item Channel, \hyperpage{36, 37}, \hyperpage{110}
+  \item \texttt{CIAO}, \hyperpage{41}, \hyperpage{62}, \hyperpage{112}
+  \item Co-rotation radius, \hyperpage{20}, \hyperpage{22--24}, 
+		\hyperpage{150}
+  \item Colour, \hyperpage{7}, \hyperpage{24}, \hyperpage{28}, 
+		\hyperpage{54}, \hyperpage{60}, \hyperpage{65}, 
+		\hyperpage{68}, \hyperpage{75}, \hyperpage{87}, 
+		\hyperpage{95}, \hyperpage{99}, \hyperpage{101}, 
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}, 
+		\hyperpage{131}, \hyperpage{135, 136}, 
+		\hyperpage{139--141}, \hyperpage{147}, 
+		\hyperpage{160, 161}, \hyperpage{164}, \hyperpage{176}
+  \item Colour-colour diagram, \hyperpage{8}, \hyperpage{65}, 
+		\hyperpage{67}, \hyperpage{87}, \hyperpage{206}
+  \item Compact object, \hyperpage{1--4}, \hyperpage{6--8}, 
+		\hyperpage{11}, \hyperpage{17--19}, \hyperpage{23, 24}, 
+		\hyperpage{33}, \hyperpage{102--104}, \hyperpage{108}, 
+		\hyperpage{169--171}
+  \item Companion star, \hyperpage{3}, \hyperpage{24, 25}, 
+		\hyperpage{33}, \hyperpage{156}, \hyperpage{160}, 
+		\hyperpage{164}, \hyperpage{170, 171}
+  \item the \textit{Compton Gamma Ray Observatory}, 
+		\hyperindexformat{\see {\textit{CGRO}}}{35}
+  \item Compton scattering, \hyperpage{4}, \hyperpage{29}
+  \item Cooley-Tukey algorithm, \hyperpage{52}
+  \item Corona, \hyperpage{4}, \hyperpage{6}, \hyperpage{28--32}, 
+		\hyperpage{105}, \hyperpage{179}
+  \item Crab nebula, \hyperpage{38}, \hyperpage{59}, \hyperpage{66}, 
+		\hyperpage{109}
+  \item CV, \hyperindexformat{\see {Cataclysmic variable}}{3}
+  \item Cyclotron lines, \hyperpage{150}
+  \item Cyg X-1, \hyperpage{10}, \hyperpage{170}
+  \item Cyg X-2, \hyperpage{10}
+
+  \indexspace
+
+  \item Dead-time, \hyperpage{42, 43}, \hyperpage{54}, \hyperpage{62}, 
+		\hyperpage{110}, \hyperpage{119}, \hyperpage{125}, 
+		\hyperpage{146, 147}, \hyperpage{151}
+  \item Diffusion, \hyperpage{24}
+  \item Dip, \hyperpage{25}, \hyperpage{65}, \hyperpage{81, 82}, 
+		\hyperpage{87}, \hyperpage{93}, \hyperpage{99--101}, 
+		\hyperpage{106}, \hyperpage{116}, \hyperpage{118}, 
+		\hyperpage{124}, \hyperpage{126--129}, \hyperpage{132}, 
+		\hyperpage{137}, \hyperpage{142, 143}, 
+		\hyperpage{145--147}, \hyperpage{150--152}, 
+		\hyperpage{159}, \hyperpage{168}, \hyperpage{176}, 
+		\hyperpage{203}
+  \item Dipper function, \hyperpage{127, 128}
+  \item Disk, \hyperindexformat{\see {Accretion disk}}{150}
+  \item Disk instability, \hyperindexformat{\see {Instability}}{24}
+  \item Disk wind, \hyperindexformat{\see {Wind}}{6}
+
+  \indexspace
+
+  \item Eddington limit, \hyperpage{17}, \hyperpage{19}, 
+		\hyperpage{24, 25}, \hyperpage{27--29}, \hyperpage{31}, 
+		\hyperpage{33, 34}, \hyperpage{103--108}, 
+		\hyperpage{118}, \hyperpage{148, 149}, \hyperpage{152}, 
+		\hyperpage{154}, \hyperpage{168}, \hyperpage{171}, 
+		\hyperpage{176}, \hyperpage{180}
+  \item Eddington luminosity, 
+		\hyperindexformat{\see {Eddington limit}}{17}
+  \item Eddington rate, \hyperindexformat{\see {Eddington limit}}{17}
+  \item Energy spectrum, \hyperindexformat{\see {Spectroscopy}}{37}
+  \item Event horizon, \hyperpage{7}, \hyperpage{11}
+  \item Event-mode data, \hyperpage{36}, \hyperpage{40}
+
+  \indexspace
+
+  \item Fast Fourier transform, \hyperpage{52, 53}, \hyperpage{58}
+  \item \textit{Fermi}, \hyperpage{157}, \hyperpage{160}
+    \subitem LAT, \hyperpage{157}
+  \item \texttt{FITS}, \hyperpage{37}, \hyperpage{58}, \hyperpage{108}, 
+		\hyperpage{205}
+  \item Flare, \hyperpage{25}, \hyperpage{27, 28}, \hyperpage{30}, 
+		\hyperpage{32}, \hyperpage{45}, \hyperpage{60}, 
+		\hyperpage{63, 64}, \hyperpage{69}, \hyperpage{72}, 
+		\hyperpage{75}, \hyperpage{78--80}, \hyperpage{82}, 
+		\hyperpage{87}, \hyperpage{91}, \hyperpage{93}, 
+		\hyperpage{96--103}, \hyperpage{105, 106}, 
+		\hyperpage{118}, \hyperpage{142, 143}, \hyperpage{157}, 
+		\hyperpage{159}, \hyperpage{176}, \hyperpage{180}
+  \item Flexible Image Transit System, 
+		\hyperindexformat{\see {\texttt{FITS}}}{37}
+  \item Folding, \hyperpage{45, 46}, \hyperpage{49}, \hyperpage{56}, 
+		\hyperpage{60}, \hyperpage{64, 65}, \hyperpage{72, 73}, 
+		\hyperpage{75, 76}, \hyperpage{80--83}, 
+		\hyperpage{111}, \hyperpage{180}, \hyperpage{206}
+  \item Fourier analysis, \hyperpage{37}, \hyperpage{44}, 
+		\hyperpage{50}, \hyperpage{52, 53}, \hyperpage{58}, 
+		\hyperpage{63, 64}, \hyperpage{68--72}, 
+		\hyperpage{74, 75}, \hyperpage{77}, \hyperpage{81, 82}, 
+		\hyperpage{84}, \hyperpage{86, 87}, \hyperpage{91}, 
+		\hyperpage{93}, \hyperpage{95, 96}, \hyperpage{100}, 
+		\hyperpage{108}, \hyperpage{209}
+  \item Frame-dragging, \hyperpage{11}, \hyperpage{170}
+  \item \texttt{FTOOLS}, \hyperpage{37--39}, \hyperpage{42}, 
+		\hyperpage{63}, \hyperpage{108}, \hyperpage{111}, 
+		\hyperpage{210}
+
+  \indexspace
+
+  \item Gamma ray burst, \hyperpage{38, 39}
+  \item Gaussian profile, \hyperpage{116}, \hyperpage{124}, 
+		\hyperpage{127, 128}, \hyperpage{132}
+  \item General relativity, \hyperpage{2}, \hyperpage{8}
+  \item \textit{GGS-Wind}, \hyperpage{147}
+  \item \textit{GRANAT}, \hyperpage{110}
+  \item Graveyard, \hyperpage{161}, \hyperpage{163}
+  \item Gravitational field, \hyperpage{8}, \hyperpage{15}
+  \item Gravitational radius, \hyperpage{11}
+  \item GRO J1744-28, \hyperindexformat{\see {Bursting Pulsar}}{33}
+  \item GRS 1915+105, \hyperpage{4, 5}, \hyperpage{7}, 
+		\hyperpage{24, 25}, \hyperpage{27}, \hyperpage{29--33}, 
+		\hyperpage{45}, \hyperpage{57}, \hyperpage{60}, 
+		\hyperpage{64}, \hyperpage{91}, \hyperpage{93}, 
+		\hyperpage{95, 96}, \hyperpage{98--102}, 
+		\hyperpage{105--108}, \hyperpage{167, 168}, 
+		\hyperpage{170--172}, \hyperpage{174--177}, 
+		\hyperpage{179, 180}
+  \item GX 1+4, \hyperpage{164}
+  \item GX 13+1, \hyperpage{10}
+  \item GX 17+2, \hyperpage{106}
+  \item GX 349+2, \hyperpage{58, 59}
+
+  \indexspace
+
+  \item Hard lag, \hyperpage{27}, \hyperpage{29, 30}, \hyperpage{32}, 
+		\hyperpage{57}, \hyperpage{75}, \hyperpage{101}, 
+		\hyperpage{105, 106}, \hyperpage{176}, \hyperpage{179}
+  \item Hard state, \hyperindexformat{\see {Low/Hard state}}{8}
+  \item Hardness, \hyperindexformat{\see {Colour}}{7}
+  \item Hardness-intensity diagram, \hyperpage{7}, \hyperpage{9}, 
+		\hyperpage{54--56}, \hyperpage{60}, \hyperpage{64, 65}, 
+		\hyperpage{67}, \hyperpage{69}, \hyperpage{72, 73}, 
+		\hyperpage{75, 76}, \hyperpage{80}, \hyperpage{82, 83}, 
+		\hyperpage{93}, \hyperpage{98, 99}, 
+		\hyperpage{101--103}, \hyperpage{105}, \hyperpage{111}, 
+		\hyperpage{129}, \hyperpage{131}, \hyperpage{139--141}, 
+		\hyperpage{160, 161}, \hyperpage{176}, \hyperpage{206}
+  \item Harmonic, \hyperpage{32}, \hyperpage{50}, \hyperpage{65}, 
+		\hyperpage{82}
+  \item Heartbeat, 
+		\hyperindexformat{\see {Variability class, $\rho$}}{25}
+  \item HEASARC, \hyperpage{36}
+  \item \texttt{HEASOFT}, \hyperindexformat{\see {\texttt{FTOOLS}}}{63}
+  \item Heidke skill score, \hyperpage{47}
+  \item Hiccup accretion, \hyperpage{24}, \hyperpage{34}, 
+		\hyperpage{150}, \hyperpage{155}, \hyperpage{157--161}, 
+		\hyperpage{164}, \hyperpage{176, 177}, \hyperpage{180}
+  \item HID, \hyperindexformat{\see {Hardness-intensity diagram}}{7}
+  \item High/Soft state, \hyperpage{8--10}, \hyperpage{29}, 
+		\hyperpage{33}, \hyperpage{59}, \hyperpage{63}, 
+		\hyperpage{96}, \hyperpage{103}, \hyperpage{106}, 
+		\hyperpage{173}
+  \item HMXB, \hyperindexformat{\see {X-ray binary, High mass}}{2}
+  \item HRC, \hyperpage{62}
+  \item \textit{HST}, \hyperpage{40}
+  \item the \textit{Hubble Space Telescope}, 
+		\hyperindexformat{\see {\textit{HST}}}{35}
+  \item Hysteresis, \hyperpage{56}, \hyperpage{60}, \hyperpage{65}, 
+		\hyperpage{72}, \hyperpage{75, 76}, \hyperpage{80}, 
+		\hyperpage{82, 83}, \hyperpage{93}, \hyperpage{98, 99}, 
+		\hyperpage{101--103}, \hyperpage{105}, \hyperpage{111}, 
+		\hyperpage{129}, \hyperpage{131}, \hyperpage{135}, 
+		\hyperpage{140}, \hyperpage{147}, \hyperpage{176}
+
+  \indexspace
+
+  \item IGR J17091-3624, \hyperpage{25}, \hyperpage{27}, 
+		\hyperpage{32, 33}, \hyperpage{45}, \hyperpage{57--59}, 
+		\hyperpage{61}, \hyperpage{63--66}, \hyperpage{68}, 
+		\hyperpage{88, 89}, \hyperpage{91}, \hyperpage{93}, 
+		\hyperpage{95, 96}, \hyperpage{98--108}, 
+		\hyperpage{142}, \hyperpage{144}, \hyperpage{167--177}, 
+		\hyperpage{179--181}, \hyperpage{183, 184}
+  \item IGR J18245-2452, \hyperpage{24}, \hyperpage{156--160}
+  \item IMXB, 
+		\hyperindexformat{\see {X-ray binary, Intermediate mass}}{2}
+  \item Innermost stable circular orbit, \hyperpage{11}, \hyperpage{14}, 
+		\hyperpage{34}
+  \item \textit{Insight}, \hyperpage{35}
+  \item Instability, \hyperpage{24}, \hyperpage{27}, \hyperpage{31, 32}, 
+		\hyperpage{34}, \hyperpage{107}, \hyperpage{146}, 
+		\hyperpage{150}, \hyperpage{171--173}, \hyperpage{177}, 
+		\hyperpage{180, 181}
+  \item \textit  {INTEGRAL}, \hyperpage{35}, \hyperpage{43}, 
+		\hyperpage{58, 59}, \hyperpage{61}, \hyperpage{88}, 
+		\hyperpage{108}, \hyperpage{112}, \hyperpage{114}, 
+		\hyperpage{155}, \hyperpage{180}
+    \subitem IBIS, \hyperpage{43}, \hyperpage{59}, \hyperpage{61}, 
+		\hyperpage{63, 64}, \hyperpage{88, 89}, 
+		\hyperpage{112}
+    \subitem JEM-X, \hyperpage{43}, \hyperpage{114}
+    \subitem OMC, \hyperpage{43}
+    \subitem SPI, \hyperpage{43}
+  \item the \textit{International Gamma-Ray Astrophysics Laboratory}, 
+		\hyperindexformat{\see {\textit{INTEGRAL}}}{35}
+  \item ISCO, 
+		\hyperindexformat{\see {Innermost stable circular orbit}}{11}
+
+  \indexspace
+
+  \item Jet, \hyperpage{4}, \hyperpage{6}, \hyperpage{8, 9}, 
+		\hyperpage{28, 29}
+
+  \indexspace
+
+  \item Keplerian motion, \hyperpage{15}, \hyperpage{17}, 
+		\hyperpage{19--21}
+  \item KONUS, \hyperpage{147}
+  \item \textit{Kosmos 2326}, \hyperpage{147}
+
+  \indexspace
+
+  \item Leahy normalisation, \hyperpage{53}
+  \item Lense-Thirring precession, \hyperpage{170}
+  \item Lightcurve, \hyperpage{25, 26}, \hyperpage{32}, \hyperpage{37}, 
+		\hyperpage{39--41}, \hyperpage{43, 44}, \hyperpage{48}, 
+		\hyperpage{59}, \hyperpage{64, 65}, \hyperpage{68--78}, 
+		\hyperpage{80--84}, \hyperpage{86, 87}, 
+		\hyperpage{93--96}, \hyperpage{98--100}, 
+		\hyperpage{103}, \hyperpage{108, 109}, 
+		\hyperpage{111--118}, \hyperpage{120--122}, 
+		\hyperpage{124--126}, \hyperpage{131--133}, 
+		\hyperpage{136--138}, \hyperpage{140}, 
+		\hyperpage{142--145}, \hyperpage{148}, \hyperpage{153}, 
+		\hyperpage{157--161}, \hyperpage{165}, 
+		\hyperpage{168, 169}, \hyperpage{173--176}, 
+		\hyperpage{180}, \hyperpage{206}
+  \item Liller 1, \hyperpage{33}, \hyperpage{147}
+  \item LMXB, \hyperindexformat{\see {X-ray binary, Low mass}}{2}
+  \item Lomb-Scargle periodogram, \hyperpage{44}, \hyperpage{53}, 
+		\hyperpage{60}, \hyperpage{72, 73}, \hyperpage{82}, 
+		\hyperpage{85}
+  \item Loops, \hyperindexformat{\see {Hysteresis}}{65}
+  \item Low/Hard state, \hyperpage{8--10}, \hyperpage{25}, 
+		\hyperpage{59}, \hyperpage{63, 64}, \hyperpage{88}, 
+		\hyperpage{91, 92}, \hyperpage{96}, \hyperpage{103}, 
+		\hyperpage{106}, \hyperpage{140}, \hyperpage{173}
+
+  \indexspace
+
+  \item $\dot{M}$, \hyperindexformat{\see {Accretion rate}}{145}
+  \item Magnetic field, \hyperpage{6}, \hyperpage{17}, \hyperpage{19}, 
+		\hyperpage{21--23}, \hyperpage{29}, \hyperpage{106}, 
+		\hyperpage{108}, \hyperpage{147}, \hyperpage{150}, 
+		\hyperpage{152}, \hyperpage{156}, \hyperpage{161, 162}, 
+		\hyperpage{164, 165}, \hyperpage{170, 171}
+  \item Magnetic moment, \hyperpage{160}, \hyperpage{162}
+  \item Magnetic pressure, \hyperpage{6}, \hyperpage{20}, 
+		\hyperpage{173}
+  \item Magnetorotational instability, \hyperpage{17}, \hyperpage{29}
+  \item Magnetospheric radius, \hyperpage{21--24}, \hyperpage{34}, 
+		\hyperpage{150}, \hyperpage{180}
+  \item Mesoburst, \hyperpage{116--122}, \hyperpage{135}, 
+		\hyperpage{137--140}, \hyperpage{142}, 
+		\hyperpage{144--146}, \hyperpage{152--154}, 
+		\hyperpage{168}, \hyperpage{173}, \hyperpage{180}
+  \item Millisecond pulsar, \hyperpage{156}
+  \item Miniburst, \hyperpage{116--122}, \hyperpage{132--137}, 
+		\hyperpage{140}, \hyperpage{142}, \hyperpage{144--147}, 
+		\hyperpage{150, 151}, \hyperpage{154}, \hyperpage{168}, 
+		\hyperpage{172, 173}
+  \item MRI, 
+		\hyperindexformat{\see {Magnetorotational instability}}{17}
+  \item MXB 1730-335, \hyperindexformat{\see {Rapid Burster}}{27}
+
+  \indexspace
+
+  \item the \textit{Neil Gehrels Swift Observatory}, 
+		\hyperindexformat{\see {\textit{Swift}}}{35}
+  \item Neutron star, \hyperpage{1}, \hyperpage{3}, \hyperpage{6--8}, 
+		\hyperpage{10, 11}, \hyperpage{19--24}, \hyperpage{27}, 
+		\hyperpage{32}, \hyperpage{34}, \hyperpage{101}, 
+		\hyperpage{144}, \hyperpage{147}, \hyperpage{150}, 
+		\hyperpage{152, 153}, \hyperpage{155--157}, 
+		\hyperpage{160, 161}, \hyperpage{164}, 
+		\hyperpage{170, 171}, \hyperpage{176, 177}, 
+		\hyperpage{180}
+  \item the \textit{Neutron Star Interior Composition Explorer}, 
+		\hyperindexformat{\see {\textit{NICER}}}{35}
+  \item $N_H$, \hyperpage{95}
+  \item \textit{NICER}, \hyperpage{35}, \hyperpage{177}
+  \item Normal burst, \hyperpage{109--111}, \hyperpage{116--132}, 
+		\hyperpage{135--137}, \hyperpage{139, 140}, 
+		\hyperpage{142}, \hyperpage{144--152}, \hyperpage{154}, 
+		\hyperpage{168}, \hyperpage{172, 173}, \hyperpage{176}, 
+		\hyperpage{193--201}, \hyperpage{203, 204}
+  \item the \textit{Nuclear Spectroscopic Telescope Array}, 
+		\hyperindexformat{\see {\textit{NuSTAR}}}{35}
+  \item \textit  {NuSTAR}, \hyperpage{35}, \hyperpage{42}, 
+		\hyperpage{108}, \hyperpage{112--114}, 
+		\hyperpage{122, 123}, \hyperpage{135}, \hyperpage{155}
+  \item \texttt{NuSTARDAS}, \hyperpage{42}
+  \item Nyquist frequency, \hyperpage{51}, \hyperpage{93}
+
+  \indexspace
+
+  \item Occam's razor, \hyperpage{167}
+  \item Opacity, \hyperpage{18}
+  \item Orbital period, \hyperpage{25}, \hyperpage{105}, 
+		\hyperpage{170}
+  \item Outburst, \hyperpage{7--9}, \hyperpage{25}, \hyperpage{27}, 
+		\hyperpage{33}, \hyperpage{58}, \hyperpage{63, 64}, 
+		\hyperpage{88}, \hyperpage{102, 103}, \hyperpage{106}, 
+		\hyperpage{108}, \hyperpage{111--116}, \hyperpage{118}, 
+		\hyperpage{120--124}, \hyperpage{127, 128}, 
+		\hyperpage{132, 133}, \hyperpage{135}, \hyperpage{137}, 
+		\hyperpage{139, 140}, \hyperpage{142--149}, 
+		\hyperpage{152--154}, \hyperpage{156--161}, 
+		\hyperpage{164}, \hyperpage{168--173}, \hyperpage{177}, 
+		\hyperpage{180}
+
+  \indexspace
+
+  \item \texttt{PANTHEON}, \hyperpage{37}, \hyperpage{58}, 
+		\hyperpage{109}, \hyperpage{180}, \hyperpage{205}
+  \item PDS, \hyperindexformat{\see {Fourier analysis}}{87}
+  \item Persistent emission, \hyperpage{33, 34}, \hyperpage{109}, 
+		\hyperpage{116--118}, \hyperpage{124--130}, 
+		\hyperpage{132--135}, \hyperpage{137--139}, 
+		\hyperpage{142}, \hyperpage{144--147}, \hyperpage{149}, 
+		\hyperpage{154}, \hyperpage{168}, \hyperpage{203}
+  \item Persistent source, \hyperpage{7, 8}
+  \item Photon pressure, 
+		\hyperindexformat{\see {Radiation pressure}}{6}
+  \item Pile-up, \hyperpage{42--44}
+  \item Plasma $\beta$, \hyperpage{29}
+  \item Plateau, \hyperpage{98}, \hyperpage{124}, \hyperpage{126--129}, 
+		\hyperpage{137}, \hyperpage{142}, \hyperpage{146}, 
+		\hyperpage{148}, \hyperpage{152}, \hyperpage{158}, 
+		\hyperpage{203}
+  \item Poisson distribution, \hyperpage{43}, \hyperpage{53}, 
+		\hyperpage{122}, \hyperpage{150}
+  \item Population study, \hyperpage{34}, \hyperpage{75}, 
+		\hyperpage{79}, \hyperpage{96--99}, 
+		\hyperpage{108, 109}, \hyperpage{119}, \hyperpage{122}, 
+		\hyperpage{145}, \hyperpage{147}, \hyperpage{150}, 
+		\hyperpage{168}, \hyperpage{172}, \hyperpage{193}
+  \item Power spectrum, \hyperindexformat{\see {Fourier analysis}}{37}
+  \item Propeller effect, \hyperpage{19}, \hyperpage{21}, 
+		\hyperpage{23, 24}, \hyperpage{34}, 
+		\hyperpage{156, 157}, \hyperpage{160}, \hyperpage{162}, 
+		\hyperpage{180}
+  \item PSR J1023+0038, \hyperpage{156--158}, \hyperpage{160}
+  \item Pulsar, \hyperpage{7}, \hyperpage{33}, \hyperpage{50}, 
+		\hyperpage{111}, \hyperpage{115}, \hyperpage{150}, 
+		\hyperpage{156--161}, \hyperpage{163, 164}
+
+  \indexspace
+
+  \item $q$-value, \hyperpage{50}, \hyperpage{64}, \hyperpage{68, 69}, 
+		\hyperpage{75}, \hyperpage{82}, \hyperpage{96}
+  \item QPO, \hyperindexformat{\see {Quasi-periodic oscillation}}{24}
+  \item Quasi-periodic oscillation, \hyperpage{24, 25}, 
+		\hyperpage{44, 45}, \hyperpage{49, 50}, \hyperpage{56}, 
+		\hyperpage{60}, \hyperpage{63}, \hyperpage{65}, 
+		\hyperpage{68, 69}, \hyperpage{72}, \hyperpage{75}, 
+		\hyperpage{81, 82}, \hyperpage{85}, \hyperpage{87}, 
+		\hyperpage{91}, \hyperpage{93}, \hyperpage{96}, 
+		\hyperpage{101}, \hyperpage{105, 106}, \hyperpage{153}
+  \item Quiescence, \hyperpage{7}, \hyperpage{9}, \hyperpage{27}, 
+		\hyperpage{38}, \hyperpage{64}, \hyperpage{108}, 
+		\hyperpage{111, 112}, \hyperpage{156}, \hyperpage{161}, 
+		\hyperpage{165}
+
+  \indexspace
+
+  \item Radiation pressure, \hyperpage{3}, \hyperpage{6}, 
+		\hyperpage{19, 20}, \hyperpage{23}, \hyperpage{31}, 
+		\hyperpage{156}, \hyperpage{171}, \hyperpage{173}
+  \item Ram pressure, \hyperpage{6}, \hyperpage{20}, \hyperpage{23}, 
+		\hyperpage{156}
+  \item Rapid Burster, \hyperpage{27, 28}, \hyperpage{33, 34}, 
+		\hyperpage{101, 102}, \hyperpage{105--108}, 
+		\hyperpage{142}, \hyperpage{147--150}, \hyperpage{154}, 
+		\hyperpage{164}, \hyperpage{167--170}, \hyperpage{173}, 
+		\hyperpage{176}, \hyperpage{179, 180}
+  \item Re-flare, \hyperpage{64}, \hyperpage{91}, \hyperpage{106}, 
+		\hyperpage{113, 114}, \hyperpage{116}, \hyperpage{118}, 
+		\hyperpage{135}, \hyperpage{139, 140}, \hyperpage{142}, 
+		\hyperpage{144}, \hyperpage{152}, \hyperpage{168}, 
+		\hyperpage{173}, \hyperpage{180}
+  \item Rebrightening event, \hyperindexformat{\see {Re-flare}}{113}
+  \item Reconnection, \hyperpage{29}
+  \item Recurrence time, \hyperpage{25}, \hyperpage{32}, \hyperpage{69}, 
+		\hyperpage{72}, \hyperpage{75}, \hyperpage{82}, 
+		\hyperpage{91}, \hyperpage{109, 110}, \hyperpage{116}, 
+		\hyperpage{118}, \hyperpage{122--124}, \hyperpage{129}, 
+		\hyperpage{132}, \hyperpage{135}, \hyperpage{139}, 
+		\hyperpage{145}, \hyperpage{147}, \hyperpage{149, 150}, 
+		\hyperpage{153, 154}, \hyperpage{164}
+  \item Recycling, \hyperpage{156}
+  \item Reflection spectrum, \hyperpage{32}
+  \item Relaxation oscillator, \hyperpage{150}
+  \item RMS, \hyperpage{53}, \hyperpage{64}, \hyperpage{68}, 
+		\hyperpage{88}, \hyperpage{93}, \hyperpage{115}
+  \item RMS normalisation, \hyperpage{53}, \hyperpage{81}, 
+		\hyperpage{93}
+  \item Roche lobe, \hyperpage{3}, \hyperpage{156}
+  \item Root-mean squared variability, 
+		\hyperindexformat{\see {RMS}}{53}
+  \item the \textit{Rossi X-Ray Timing Experiment}, 
+		\hyperindexformat{\see {\textit{RXTE}}}{35}
+  \item \textit  {RXTE}, \hyperpage{26}, \hyperpage{33}, 
+		\hyperpage{35, 36}, \hyperpage{58, 59}, \hyperpage{64}, 
+		\hyperpage{66}, \hyperpage{88}, \hyperpage{90, 91}, 
+		\hyperpage{93}, \hyperpage{96}, \hyperpage{101}, 
+		\hyperpage{106--108}, \hyperpage{110, 111}, 
+		\hyperpage{113, 114}, \hyperpage{118, 119}, 
+		\hyperpage{122}, \hyperpage{124}, \hyperpage{126--128}, 
+		\hyperpage{132, 133}, \hyperpage{135}, \hyperpage{137}, 
+		\hyperpage{139}, \hyperpage{141--144}, 
+		\hyperpage{147, 148}, \hyperpage{155}, 
+		\hyperpage{158, 159}, \hyperpage{161}, \hyperpage{177}, 
+		\hyperpage{183, 184}, \hyperpage{189, 190}, 
+		\hyperpage{205}
+    \subitem ASM, \hyperpage{36}, \hyperpage{109}, \hyperpage{114}
+    \subitem HEXTE, \hyperpage{36}
+    \subitem PCA, \hyperpage{26}, \hyperpage{33}, \hyperpage{36, 37}, 
+		\hyperpage{58, 59}, \hyperpage{63, 64}, \hyperpage{68}, 
+		\hyperpage{108, 109}, \hyperpage{111}, 
+		\hyperpage{113--116}, \hyperpage{118}, 
+		\hyperpage{120--122}, \hyperpage{131--133}, 
+		\hyperpage{135}, \hyperpage{137}, \hyperpage{139, 140}, 
+		\hyperpage{145}, \hyperpage{153}, \hyperpage{161, 162}, 
+		\hyperpage{172}, \hyperpage{174, 175}, \hyperpage{183}
+      \subsubitem \texttt  {GoodXenon} data, \hyperpage{37}, 
+		\hyperpage{58}, \hyperpage{110}
+      \subsubitem \texttt  {Standard1} data, \hyperpage{37}, 
+		\hyperpage{109}
+      \subsubitem \texttt  {Standard2} data, \hyperpage{37}, 
+		\hyperpage{109}
+
+  \indexspace
+
+  \item \texttt{SAS}, \hyperpage{40}, \hyperpage{62}, \hyperpage{112}
+  \item SAX J1808.4-3658, \hyperpage{144}
+  \item Schwarzchild radius, \hyperpage{11}
+  \item Shakura-Sunyaev disk model, \hyperpage{13}, \hyperpage{17}, 
+		\hyperpage{24}
+  \item SMC X-1, \hyperpage{33}
+  \item Soft state, \hyperindexformat{\see {High/Soft state}}{8}
+  \item Spearman's rank correlation coefficient, \hyperpage{110}, 
+		\hyperpage{129, 130}, \hyperpage{133}, \hyperpage{137}, 
+		\hyperpage{161}, \hyperpage{204}
+  \item Spectral leakage, \hyperpage{52}
+  \item Spectroscopy, \hyperpage{28}, \hyperpage{37}, 
+		\hyperpage{39--41}, \hyperpage{43, 44}, \hyperpage{54}, 
+		\hyperpage{103}, \hyperpage{108}, \hyperpage{129}, 
+		\hyperpage{147}, \hyperpage{153}, \hyperpage{157}, 
+		\hyperpage{160}, \hyperpage{164, 165}, \hyperpage{167}, 
+		\hyperpage{179}
+    \subitem Phase-resolved, \hyperpage{28}, \hyperpage{30}, 
+		\hyperpage{32}, \hyperpage{56}, \hyperpage{176, 177}, 
+		\hyperpage{180}
+  \item Spin, \hyperpage{11}, \hyperpage{33}, \hyperpage{156, 157}, 
+		\hyperpage{160}, \hyperpage{164, 165}, \hyperpage{170}
+  \item \textit{Spitzer}, \hyperpage{40}
+  \item Spline, \hyperpage{49}
+  \item Stellar companion, \hyperindexformat{\see {Companion star}}{3}
+  \item Structured bursting, \hyperpage{117, 118}, \hyperpage{120--122}, 
+		\hyperpage{139--146}, \hyperpage{153--155}, 
+		\hyperpage{158--160}, \hyperpage{162}, \hyperpage{164}, 
+		\hyperpage{168}, \hyperpage{173}, \hyperpage{175--177}, 
+		\hyperpage{180}
+  \item Super-Eddington accretion, \hyperpage{19}, \hyperpage{149}
+  \item Supernova, \hyperpage{1}
+  \item \textit  {Suzaku}, \hyperpage{10}, \hyperpage{35}, 
+		\hyperpage{41, 42}, \hyperpage{58, 59}, \hyperpage{63}, 
+		\hyperpage{91}, \hyperpage{93}, \hyperpage{112}, 
+		\hyperpage{114}, \hyperpage{122, 123}, \hyperpage{155}, 
+		\hyperpage{205}
+    \subitem HXD, \hyperpage{41, 42}
+    \subitem XIS, \hyperpage{41, 42}, \hyperpage{63}, \hyperpage{91}, 
+		\hyperpage{112}
+    \subitem XRS, \hyperpage{41}
+  \item \textit  {Swift}, \hyperpage{35}, \hyperpage{38}, 
+		\hyperpage{58, 59}, \hyperpage{61}, \hyperpage{88}, 
+		\hyperpage{103}, \hyperpage{108}, \hyperpage{111}, 
+		\hyperpage{114}, \hyperpage{155}
+    \subitem BAT, \hyperpage{39}, \hyperpage{59}, \hyperpage{61}, 
+		\hyperpage{63, 64}, \hyperpage{111}, \hyperpage{114}
+    \subitem UVOT, \hyperpage{39}
+    \subitem XRT, \hyperpage{38, 39}, \hyperpage{59}, \hyperpage{61}, 
+		\hyperpage{63, 64}, \hyperpage{88}, \hyperpage{111}, 
+		\hyperpage{114}, \hyperpage{169}
+
+  \indexspace
+
+  \item Terzan 5 X-2, \hyperpage{153}, \hyperpage{167}
+  \item Thermonuclear burning, \hyperpage{7}, \hyperpage{32}, 
+		\hyperpage{152, 153}, \hyperpage{155}, \hyperpage{177}, 
+		\hyperpage{180}
+  \item Thomson scattering cross-section, \hyperpage{18}
+  \item TMSP, \hyperpage{150}, \hyperpage{155--160}, 
+		\hyperpage{164, 165}, \hyperpage{167}, \hyperpage{173}, 
+		\hyperpage{180}
+  \item Torque reversal, \hyperpage{164}
+  \item Transient source, \hyperpage{7, 8}, \hyperpage{39}
+  \item Transitional millisecond pulsar, 
+		\hyperindexformat{\see {TMSP}}{150}
+  \item Turbulence, \hyperpage{16, 17}, \hyperpage{29}
+
+  \indexspace
+
+  \item \textit{Uhuru}, \hyperpage{35}
+
+  \indexspace
+
+  \item V404 Cyg, \hyperpage{106}, \hyperpage{170}
+  \item Variability, \hyperpage{25}, \hyperpage{27}, \hyperpage{29}, 
+		\hyperpage{32--34}, \hyperpage{44}, \hyperpage{53}, 
+		\hyperpage{56, 57}, \hyperpage{72}, \hyperpage{87}, 
+		\hyperpage{91}, \hyperpage{93}, \hyperpage{100, 101}, 
+		\hyperpage{105--108}, \hyperpage{111}, \hyperpage{116}, 
+		\hyperpage{140}, \hyperpage{142, 143}, 
+		\hyperpage{155--158}, \hyperpage{160}, 
+		\hyperpage{167--174}, \hyperpage{176, 177}, 
+		\hyperpage{179--181}, \hyperpage{183, 184}
+  \item Variability class, \hyperpage{25, 26}, \hyperpage{57}, 
+		\hyperpage{64--66}, \hyperpage{68}, \hyperpage{93}, 
+		\hyperpage{95}, \hyperpage{99--102}, \hyperpage{106}, 
+		\hyperpage{168}, \hyperpage{171--173}, 
+		\hyperpage{176, 177}, \hyperpage{179}, 
+		\hyperpage{183, 184}
+    \subitem $\alpha $, \hyperpage{102}
+    \subitem $\beta $, \hyperpage{26}, \hyperpage{102}
+    \subitem $\gamma $, \hyperpage{95}, \hyperpage{100, 101}
+    \subitem $\delta $, \hyperpage{26}
+    \subitem $\theta $, \hyperpage{27}, \hyperpage{101}
+    \subitem $\kappa $, \hyperpage{25, 26}
+    \subitem $\lambda $, \hyperpage{95}, \hyperpage{99, 100}, 
+		\hyperpage{102}
+    \subitem $\mu $, \hyperpage{95}, \hyperpage{98, 99}, 
+		\hyperpage{102}
+    \subitem $\nu $, \hyperpage{26}, \hyperpage{95, 96}, \hyperpage{98}, 
+		\hyperpage{100}, \hyperpage{102}
+    \subitem $\rho $, \hyperpage{25--32}, \hyperpage{45}, 
+		\hyperpage{57}, \hyperpage{63}, \hyperpage{91}, 
+		\hyperpage{95, 96}, \hyperpage{98}, 
+		\hyperpage{100--103}, \hyperpage{105, 106}, 
+		\hyperpage{174}
+    \subitem $\phi $, \hyperpage{25, 26}, \hyperpage{95, 96}
+    \subitem $\chi $, \hyperpage{25}, \hyperpage{95, 96}
+    \subitem $\omega $, \hyperpage{99}
+    \subitem I, \hyperpage{68, 69}, \hyperpage{87}, \hyperpage{90}, 
+		\hyperpage{95, 96}, \hyperpage{168}, \hyperpage{184}
+    \subitem II, \hyperpage{68--70}, \hyperpage{87}, \hyperpage{95, 96}, 
+		\hyperpage{168}, \hyperpage{185}
+    \subitem III, \hyperpage{68, 69}, \hyperpage{71--73}, 
+		\hyperpage{75}, \hyperpage{93--102}, \hyperpage{105}, 
+		\hyperpage{169}, \hyperpage{184, 185}
+    \subitem IV, \hyperpage{68}, \hyperpage{72}, \hyperpage{74--76}, 
+		\hyperpage{91--102}, \hyperpage{105}, \hyperpage{176}, 
+		\hyperpage{184--186}
+    \subitem V, \hyperpage{68}, \hyperpage{75}, \hyperpage{77--80}, 
+		\hyperpage{90}, \hyperpage{95}, \hyperpage{98, 99}, 
+		\hyperpage{101, 102}, \hyperpage{105}, 
+		\hyperpage{184--186}
+    \subitem VI, \hyperpage{65}, \hyperpage{68}, \hyperpage{81--83}, 
+		\hyperpage{87}, \hyperpage{95}, \hyperpage{99--102}, 
+		\hyperpage{105}, \hyperpage{184--186}
+    \subitem VII, \hyperpage{68}, \hyperpage{82}, \hyperpage{84, 85}, 
+		\hyperpage{90, 91}, \hyperpage{95}, 
+		\hyperpage{99--102}, \hyperpage{105}, \hyperpage{168}, 
+		\hyperpage{172}, \hyperpage{185, 186}
+    \subitem VIII, \hyperpage{65}, \hyperpage{68}, \hyperpage{82}, 
+		\hyperpage{86, 87}, \hyperpage{95}, 
+		\hyperpage{100--102}, \hyperpage{105}, \hyperpage{172}, 
+		\hyperpage{185, 186}
+    \subitem IX, \hyperpage{65}, \hyperpage{68}, \hyperpage{87}, 
+		\hyperpage{90, 91}, \hyperpage{95}, 
+		\hyperpage{100, 101}, \hyperpage{184}, 
+		\hyperpage{186, 187}
+  \item Vela X-1, \hyperpage{160}, \hyperpage{164}
+  \item Viscosity, \hyperpage{14}, \hyperpage{16, 17}, 
+		\hyperpage{23, 24}, \hyperpage{28}, \hyperpage{150}, 
+		\hyperpage{173}
+
+  \indexspace
+
+  \item White dwarf, \hyperpage{3}
+  \item Wind, \hyperpage{6}, \hyperpage{8}, \hyperpage{29}, 
+		\hyperpage{31}, \hyperpage{105}, \hyperpage{164}
+
+  \indexspace
+
+  \item X-ray binary, \hyperpage{2}, \hyperpage{6}, \hyperpage{19}, 
+		\hyperpage{157}, \hyperpage{167}, \hyperpage{170}
+    \subitem High mass, \hyperpage{3}, \hyperpage{10}, 
+		\hyperpage{161, 162}, \hyperpage{170}
+    \subitem Intermediate mass, \hyperpage{3}
+    \subitem Low mass, \hyperpage{3, 4}, \hyperpage{7--10}, 
+		\hyperpage{24, 25}, \hyperpage{27}, \hyperpage{54}, 
+		\hyperpage{93}, \hyperpage{96}, \hyperpage{101--103}, 
+		\hyperpage{105--107}, \hyperpage{142}, \hyperpage{144}, 
+		\hyperpage{147}, \hyperpage{153}, \hyperpage{155, 156}, 
+		\hyperpage{160}, \hyperpage{162}, \hyperpage{167, 168}, 
+		\hyperpage{170, 171}, \hyperpage{176}, \hyperpage{179}
+  \item X-ray burst, \hyperpage{32}, \hyperpage{44}, 
+		\hyperpage{109--111}, \hyperpage{113}, 
+		\hyperpage{116--122}, \hyperpage{132}, \hyperpage{135}, 
+		\hyperpage{139}, \hyperpage{142}, \hyperpage{144--147}, 
+		\hyperpage{149--155}, \hyperpage{167, 168}, 
+		\hyperpage{172, 173}, \hyperpage{179, 180}, 
+		\hyperpage{189}, \hyperpage{203}
+    \subitem Type I, \hyperpage{7}, \hyperpage{32, 33}, \hyperpage{118}, 
+		\hyperpage{152, 153}
+    \subitem Type II, \hyperpage{27}, \hyperpage{32}, \hyperpage{34}, 
+		\hyperpage{107--109}, \hyperpage{113}, 
+		\hyperpage{115, 116}, \hyperpage{119}, \hyperpage{129}, 
+		\hyperpage{142}, \hyperpage{146--150}, \hyperpage{152}, 
+		\hyperpage{154}, \hyperpage{164}, \hyperpage{168}, 
+		\hyperpage{171, 172}, \hyperpage{179, 180}
+  \item the \textit{X-Ray Multi-Mirror Mission}, 
+		\hyperindexformat{\see {\textit{XMM-Newton}}}{35}
+  \item XMM J083850.4-282759, \hyperpage{157}
+  \item XMM J174457-2850.3, \hyperpage{157, 158}
+  \item \textit  {XMM-Newton}, \hyperpage{35}, \hyperpage{39, 40}, 
+		\hyperpage{58, 59}, \hyperpage{61}, \hyperpage{91--93}, 
+		\hyperpage{108}, \hyperpage{112}, \hyperpage{114}, 
+		\hyperpage{122, 123}, \hyperpage{147}, 
+		\hyperpage{155, 156}, \hyperpage{158}, \hyperpage{177}
+    \subitem EPIC, \hyperpage{39, 40}, \hyperpage{61}, \hyperpage{64}, 
+		\hyperpage{92}, \hyperpage{112}
+    \subitem OM, \hyperpage{40}
+    \subitem RGS, \hyperpage{40}
+  \item XRB, \hyperindexformat{\see {X-ray binary}}{2}
+  \item XSS J12270-4859, 
+		\hyperindexformat{\see {1FGL J1227.9-4852}}{157}
+  \item XTE J1550-564, \hyperpage{96}, \hyperpage{171}
+  \item XTE J1650-500, \hyperpage{144}
+
+  \indexspace
+
+  \item Young stellar object, \hyperpage{162}
+  \item YSO, \hyperindexformat{\see {Young stellar object}}{162}
+
+  \indexspace
+
+  \item Z source, \hyperpage{8}, \hyperpage{10}
+
+\end{theindex}

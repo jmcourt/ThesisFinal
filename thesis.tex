@@ -1,0 +1,311 @@
+\documentclass[11pt,a4paper,twoside,onehalfspacing,fleqn]{report}
+%\bibliographystyle{refs}
+%\usepackage{aas_macros}
+\usepackage{natbib}
+\usepackage{fixltx2e}
+\usepackage{textcomp}
+\usepackage{graphicx}	% Including figure files
+\usepackage{amsmath}	% Advanced maths commands
+\usepackage{amssymb}	% Extra maths symbols
+\usepackage{verbatim}
+\usepackage[T1]{fontenc}
+\usepackage{ae,aecompl}
+\usepackage{enumerate}
+\usepackage[font=small,format=plain,labelfont=bf,up]{caption}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{mathtools}
+\usepackage{lscape}
+\usepackage{natbib}
+%\usepackage{newtxtext,newtxmath}
+\usepackage{txfonts}
+\usepackage{subfig}
+\usepackage{slashed}
+\usepackage{epsfig}
+\usepackage{color}
+\usepackage{float}
+\usepackage{subfig}
+\usepackage{parskip, setspace, fullpage}
+\usepackage{appendix}
+\usepackage{rotating}
+\usepackage[a4paper,left=1in,right=1in,top=1in,bindingoffset=0.7in,bottom=1.2in]{geometry}
+\usepackage{hyperref}
+\hypersetup{}
+\usepackage{bm}
+\usepackage{minted}
+\usepackage{makeidx}
+\usepackage{epigraph}
+
+
+% Units and Satellite macros
+\newcommand{\swift}{{\textit{Swift}}}
+\newcommand{\integral}{{\textit{INTEGRAL}}}
+\newcommand{\nustar}{{\textit {NuSTAR}}}
+\newcommand{\xmm}{{\textit{XMM-Newton}}}
+\newcommand{\chandra}{{\textit{Chandra}}}
+\newcommand{\rxte}{{\textit{RXTE}}}
+\newcommand{\sax}{{\textit{BeppoSAX}}}
+\newcommand{\ms}{$M_{\odot}$}
+\newcommand{\rs}{$R_{\odot}$}
+\newcommand{\ls}{$L_{\odot}$}
+\newcommand{\Mns}{$M_{NS}$}
+\newcommand{\Rns}{$R_{NS}$}
+\newcommand{\kms}{km~s$^{-1}$}
+\newcommand{\fluxcgs}{erg~s$^{-1}$~cm$^{-2}$}
+\newcommand{\lumcgs}{erg~s$^{-1}$}
+\newcommand{\nHcgs}{cm$^{-2}$}
+\newcommand{\la}{\,\rlap{\raise 0.5ex\hbox{$<$}}{\lower 1.0ex\hbox{$\sim$}}\,}
+\newcommand\fd{\hbox{$.\!\!^{\reset@font\romn d}$}}
+\newcommand\fh{\hbox{$.\!\!^{\reset@font\romn h}$}}
+\newcommand\fm{\hbox{$.\!\!^{\reset@font\romn m}$}}
+\newcommand\fs{\hbox{$.\!\!^{\reset@font\romn s}$}}
+\newcommand\fdg{\hbox{$.\!\!^\circ$}}
+\newcommand\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\newcommand\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\newcommand\fp{\hbox{$.\!\!^{\reset@font\reset@font\scriptscriptstyle\romn p}$}}
+\newcommand\arcmin{\hbox{$^\prime$}}
+\newcommand\arcsec{\hbox{$^{\prime\prime}$}}
+\newcommand{\ga}{\,\rlap{\raise 0.5ex\hbox{$>$}}{\lower 1.0ex\hbox{$\sim$}}\,}
+\newcommand{\spcu}{\,cts\,s$^{-1}$\,PCU$^{-1}$}
+\newcommand{\ergf}{\,ergs~s$^{-1}$~cm$^{-2}$}
+\newcommand{\phspcu}{\,cts\,s$^{-1}$\,PCU$^{-1}$}
+\newcommand{\dv}{\bm{\nabla}}
+\newcommand{\indexalpha}{\index{Variability class!Ga@$\alpha$}}
+\newcommand{\indexbeta}{\index{Variability class!Gb@$\beta$}}
+\newcommand{\indexgamma}{\index{Variability class!Gc@$\gamma$}}
+\newcommand{\indexdelta}{\index{Variability class!Gd@$\delta$}}
+\newcommand{\indexepsilon}{\index{Variability class!Ge@$\epsilon$}}
+\newcommand{\indexzeta}{\index{Variability class!Gf@$\zeta$}}
+\newcommand{\indexeta}{\index{Variability class!Gg@$\eta$}}
+\newcommand{\indextheta}{\index{Variability class!Gh@$\theta$}}
+\newcommand{\indexiota}{\index{Variability class!Gi@$\iota$}}
+\newcommand{\indexkappa}{\index{Variability class!Gj@$\kappa$}}
+\newcommand{\indexlambda}{\index{Variability class!Gk@$\lambda$}}
+\newcommand{\indexmu}{\index{Variability class!Gl@$\mu$}}
+\newcommand{\indexnu}{\index{Variability class!Gm@$\nu$}}
+\newcommand{\indexxi}{\index{Variability class!Gn@$\xi$}}
+\newcommand{\indexomicron}{\index{Variability class!Go@$\omicron$}}
+\newcommand{\indexpi}{\index{Variability class!Gp@$\pi$}}
+\newcommand{\indexrho}{\index{Variability class!Gq@$\rho$}}
+\newcommand{\indexsigma}{\index{Variability class!Gr@$\sigma$}}
+\newcommand{\indextau}{\index{Variability class!Gs@$\tau$}}
+\newcommand{\indexupsilon}{\index{Variability class!Gt@$\upsilon$}}
+\newcommand{\indexphi}{\index{Variability class!Gu@$\phi$}}
+\newcommand{\indexchi}{\index{Variability class!Gv@$\chi$}}
+\newcommand{\indexpsi}{\index{Variability class!Gw@$\psi$}}
+\newcommand{\indexomega}{\index{Variability class!Gx@$\omega$}}
+\newcommand{\indexi}{\index{Variability class!I1@I}}
+\newcommand{\indexii}{\index{Variability class!I2@II}}
+\newcommand{\indexiii}{\index{Variability class!I3@III}}
+\newcommand{\indexiv}{\index{Variability class!I4@IV}}
+\newcommand{\indexv}{\index{Variability class!I5@V}}
+\newcommand{\indexvi}{\index{Variability class!I6@VI}}
+\newcommand{\indexvii}{\index{Variability class!I7@VII}}
+\newcommand{\indexviii}{\index{Variability class!I8@VIII}}
+\newcommand{\indexix}{\index{Variability class!I9@IX}}
+\newcommand{\indexrxte}{\index{RXTE@\textit{RXTE}}}
+ \newcommand{\indexpca}{\index{RXTE@\textit{RXTE}!PCA}}
+ \newcommand{\indexhexte}{\index{RXTE@\textit{RXTE}!HEXTE}}
+ \newcommand{\indexasm}{\index{RXTE@\textit{RXTE}!ASM}}
+ \newcommand{\indexsto}{\index{RXTE@\textit{RXTE}!PCA!Standard1 data@\texttt{Standard1} data}}
+ \newcommand{\indexstt}{\index{RXTE@\textit{RXTE}!PCA!Standard1 data@\texttt{Standard2} data}}
+ \newcommand{\indexgx}{\index{RXTE@\textit{RXTE}!PCA!GoodXenon data@\texttt{GoodXenon} data}}
+\newcommand{\indexsuzaku}{\index{Suzaku@\textit{Suzaku}}}
+ \newcommand{\indexxrs}{\index{Suzaku@\textit{Suzaku}!XRS}}
+ \newcommand{\indexxis}{\index{Suzaku@\textit{Suzaku}!XIS}}
+ \newcommand{\indexhxd}{\index{Suzaku@\textit{Suzaku}!HXD}}
+\newcommand{\indexchandra}{\index{Chandra@\textit{Chandra}}}
+ \newcommand{\indexacis}{\index{Chandra@\textit{Chandra}!ACIS}}
+ \newcommand{\indexhrc}{\index{Chandra@\textit{Chandra}!HRC}}
+\newcommand{\indexintegral}{\index{Integral@\textit{INTEGRAL}}}
+ \newcommand{\indexibis}{\index{Integral@\textit{INTEGRAL}!IBIS}}
+ \newcommand{\indexspi}{\index{Integral@\textit{INTEGRAL}!SPI}}
+ \newcommand{\indexjemx}{\index{Integral@\textit{INTEGRAL}!JEM-X}}
+ \newcommand{\indexomc}{\index{Integral@\textit{INTEGRAL}!OMC}}
+\newcommand{\indexnustar}{\index{NuSTAR@\textit{NuSTAR}}}
+\newcommand{\indexswift}{\index{Swift@\textit{Swift}}}
+ \newcommand{\indexuvot}{\index{Swift@\textit{Swift}!UVOT}}
+ \newcommand{\indexbat}{\index{Swift@\textit{Swift}!BAT}}
+ \newcommand{\indexxrt}{\index{Swift@\textit{Swift}!XRT}}
+\newcommand{\indexxmm}{\index{XMM-Newton@\textit{XMM-Newton}}}
+ \newcommand{\indexepic}{\index{XMM-Newton@\textit{XMM-Newton}!EPIC}}
+ \newcommand{\indexom}{\index{XMM-Newton@\textit{XMM-Newton}!OM}}
+ \newcommand{\indexrgs}{\index{XMM-Newton@\textit{XMM-Newton}!RGS}}
+\newcommand{\thesistitle}{Recurrent Instability in LMXB Accretion Disks: How Strange is GRS 1915+105?}
+\newcommand{\indexq}{\index{q-value@$q$-value}}
+
+% Journal Macros
+\def\aj{{AJ}}% 
+         % Astronomical Journal 
+\def\araa{{ARA\&A}}% 
+         % Annual Review of Astron and Astrophys 
+\def\apj{{ApJ}}% 
+         % Astrophysical Journal 
+\def\apjl{{ApJ}}% 
+         % Astrophysical Journal, Letters 
+\def\apjs{{ApJS}}% 
+         % Astrophysical Journal, Supplement 
+\def\aap{{A\&A}}% 
+         % Astronomy and Astrophysics 
+\def\aapr{{A\&A~Rev.}}% 
+         % Astronomy and Astrophysics Reviews 
+\def\aaps{{A\&AS}}% 
+         % Astronomy and Astrophysics, Supplement 
+\def\prl{{Phys.~Rev.~Lett.}}%
+\def\pr{{Phys.~Rev.}}
+\def\physrep{{Phys.~Rep.}} 
+\def\sovast{{Sov.~Astron.}}
+% Physical Review Letters 
+\def\pasp{{PASP}}% 
+\def\pasa{{PASA}}% 
+         % Publications of the ASP 
+\def\pasj{{PASJ}}% 
+         % Publications of the ASJ 
+\def\nat{{Nature}}% 
+         % Nature 
+\def\mnras{{MNRAS}}% 
+         % Monthly Notices of the RAS 
+\def\iaucirc{{IAU Circ.}}% 
+\def\gca{{Geochim. Cosmochim. Acta}}
+		%Geochimica et Cosmochimica Acta
+\def\atel{{ATel}}
+		%Astronomers Telegram
+\def\astlet{{Astron. Lett.}} %
+		%Astronomy Letters
+\def\aspc{{ASPC}}
+		%Astronomical Society of the Pacific Conference Series
+\def\apss{{Ap\&SS}}
+		%Astrophysics and Space Science
+\def\yCat{yCat}
+\def\ssr{{Space~Sci.~Rev.}}
+\def\actaa{{Acta. ~Astron.}}
+\def\procspie{{Proc.~SPIE}}
+\def\lrr{{Livng~Rev.~Relativity}} 
+\def\baas{{Bulletin of the American Astronomical Society}}
+% Sources
+
+\def\igr{{IGR\,J17091$-$3624}}
+\def\grs{{GRS\,1915+105}}
+\def\bp{{GRO\,J1744$-$28}}
+
+\renewcommand{\thefootnote}{[\arabic{footnote}]}
+
+\makeindex
+
+\onehalfspacing
+
+\setlength{\parindent}{1cm}
+
+\begin{document}
+\pagenumbering{gobble}
+%    \setcounter{page}{1}
+\include{titlepage}
+
+\thispagestyle{empty}
+
+\cleardoublepage
+
+\include{abstract}
+
+\thispagestyle{empty}
+
+\cleardoublepage
+\pagenumbering{roman}
+    \setcounter{page}{1}
+
+\tableofcontents
+
+\cleardoublepage
+
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+
+\cleardoublepage
+
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}
+
+\raggedright
+
+\cleardoublepage
+%
+%\include{preface}
+%
+%\cleardoublepage
+
+\include{dedication}
+
+\cleardoublepage
+
+\include{acknowledgements}
+
+\cleardoublepage
+
+\include{declaration}
+\cleardoublepage
+\newpage{   }
+
+\setcounter{chapter}{0}
+	\clearpage
+    \setcounter{page}{0}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\include{Introduction}
+
+\cleardoublepage
+
+\include{PhysicsofAccretion}
+
+\cleardoublepage
+
+\include{Methods}
+
+\cleardoublepage
+
+\include{IGRJ17091Paper}
+
+\cleardoublepage
+
+\include{BPBigPaper}
+
+\cleardoublepage
+
+\include{BPLetter}
+
+\cleardoublepage
+
+\include{Discussion}
+
+\cleardoublepage
+
+\include{Conclusion}
+
+\cleardoublepage
+
+\begin{appendices}
+\include{igrclasslist}
+\cleardoublepage
+\include{xtelist}
+\cleardoublepage
+\include{bursthists}
+\cleardoublepage
+\include{paramcorr}
+\cleardoublepage
+\include{pantheon2}
+\end{appendices}
+
+
+\cleardoublepage
+
+\nocite{*}
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliography{refs.bib}
+\bibliographystyle{apalike}
+
+\cleardoublepage
+
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+\end{document}
